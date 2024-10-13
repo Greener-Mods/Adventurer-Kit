@@ -1,5 +1,4 @@
 # Adventurer-Kit
-Adventurer Kit for Baldur's Gate Enhanced Edition
 
 ADVENTURER: A jack-of-all-trades, master of none, an adventurer uses their broad knowledge base and diverse skillset to create their own luck. Often preferred by many adventuring parties, because they know the value of trust and cooperation and are much less likely to steal from or betray their own companions.
 
