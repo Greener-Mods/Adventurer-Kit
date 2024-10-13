@@ -8,20 +8,21 @@ Advantages:
 Disadvantages:
 - No backstab multiplier
 
-INSTALLATION 
+**INSTALLATION** 
                  
 This kit has been created and tested with BGEE and BG2EE. 
+
 This is a WEIDU mod thus currently is compatible with other mods.
 
 	1 - Extract the contents of the zip file into your override folder
 
 	2 - Run WeiDU and install
  
-FUTURE  CHANGES  
+**FUTURE CHANGES** 
 
 None planned
 
-COPYRIGHT
+**COPYRIGHT**
 
 It can be used by anyone, at any time, anywhere at your own risk
 
